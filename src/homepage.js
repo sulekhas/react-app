@@ -16,5 +16,5 @@ import { useMutation } from "@tanstack/react-query";
 import axios from "axios";
 import FBButton from "../../../../components/FBButton";
 import { logo } from "../assets";
-import Clipboard from "../../../Clipboard";
-import HistorySidebar from "../../../HistorySidebar";
+import Clipboard from "../../../layout/admin";
+import HistorySidebar from "../../../layout/portfoilo";
